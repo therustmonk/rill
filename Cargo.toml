@@ -6,5 +6,7 @@ description = "Precise logging system"
 edition = "2018"
 categories = ["development-tools::debugging"]
 keywords = ["logging"]
+repository = "https://github.com/DenisKolodin/rill"
+readme = "README.md"
 
 [dependencies]
