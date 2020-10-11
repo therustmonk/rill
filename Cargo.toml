@@ -2,11 +2,11 @@
 name = "rill"
 version = "0.1.0"
 authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
-description = "Precise logging system"
 edition = "2018"
+description = "Precise logging system"
 categories = ["development-tools::debugging"]
 keywords = ["logging"]
-repository = "https://github.com/DenisKolodin/rill"
+repository = "https://github.com/rillrate/rill"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
 
